@@ -1,0 +1,1 @@
+A Internet das Coisas (IoT) refere-se a uma rede de objetos físicos incorporados com sensores, software e tecnologias de conexão que permitem a coleta e troca de dados via internet. Essa interconexão possibilita o monitoramento, controle e automação remotos, otimizando eficiência em casas, cidades inteligentes, saúde e indústrias.

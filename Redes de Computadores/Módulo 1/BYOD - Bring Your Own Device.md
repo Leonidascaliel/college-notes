@@ -1,0 +1,1 @@
+(Bring Your Own Device, ou "Traga seu Próprio Dispositivo") é uma política corporativa que permite aos funcionários usarem dispositivos pessoais: como smartphones, laptops e tablets, para acessar redes e dados da empresa. Essa prática aumenta a produtividade e reduz custos de hardware, mas exige políticas rigorosas de [[Segurança de Rede]].

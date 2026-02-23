@@ -1,0 +1,1 @@
+é um ataque cibernético que sobrecarrega servidores, serviços ou redes com tráfego falso, tornando-os indisponíveis para usuários legítimos. Utiliza "botnets" (redes de dispositivos infectados, incluindo IoT) para inundar o alvo, visando extorsão, vingança ou hacktivismo. A mitigação envolve soluções em nuvem e filtros de tráfego.

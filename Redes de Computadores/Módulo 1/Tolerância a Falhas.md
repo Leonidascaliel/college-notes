@@ -1,0 +1,1 @@
+Tolerância a falhas em redes é a capacidade de um sistema de computadores manter operações contínuas e ininterruptas, mesmo após a falha de componentes individuais, como servidores, roteadores ou links de dados. Ela utiliza redundância (hardware/software espelhado) e mecanismos de Failover, para desviar automaticamente o tráfego de um componente com defeito para um de reserva.
