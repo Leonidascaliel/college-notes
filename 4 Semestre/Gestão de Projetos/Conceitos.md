@@ -1,0 +1,26 @@
+## Conceitos e Siglas
+
+* [[PMBOK]]: Project managment base of knowledge
+* PMI: Project managment institute
+* PMP: Project managment professional
+___
+### Principal definição do Curso - Gestão de Projetos
+#### Projeto e Operação
+* O que é um projeto: A característica principal de um projeto é ter um início e fim, o projeto é um exercício de criação do ser humano, a partir de coisas que já existem, transformar e criar coisas novas.
+
+**Definição:** Projeto é algo que consome recursos, que tem início, meio e fim, e cria algo novo e único.
+#### Características importantes
+* Finitude
+* Criação
+* Recursos
+
+#### Definição de Operação
+Operação é algo que consome recursos, porém, **não tem necessariamente** um fim determinado, e apenas mantém algo que já existe.
+
+* Projeto existe para criar algo.
+* Operação existe para manter algo.
+
+### O que acontece dentro de uma organização?
+Não há outra coisa além de:
+* Projetos
+* Operações
