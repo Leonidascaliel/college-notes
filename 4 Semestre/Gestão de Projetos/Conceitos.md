@@ -15,7 +15,7 @@ ___
 * Recursos
 
 #### Definição de Operação
-Operação é algo que consome recursos, porém, **não tem necessariamente** um fim determinado, e apenas mantém algo que já existe.
+Operação é algo que consome recursos, porém, **não tem necessariamente** um fim determinado, e apenas mantém algo que já existe. Não existe nada que não tenha fim, mas a operação não precisa ter necessariamente, um fim programado.
 
 * Projeto existe para criar algo.
 * Operação existe para manter algo.
@@ -24,3 +24,6 @@ Operação é algo que consome recursos, porém, **não tem necessariamente** um
 Não há outra coisa além de:
 * Projetos
 * Operações
+
+#### Pontos fracos - Prova
+* Escrita, alguns não escrevem corretamente a resposta e costumam errar. Não Completam frase corretamente.
