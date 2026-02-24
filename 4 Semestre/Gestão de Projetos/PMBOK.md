@@ -1,5 +1,5 @@
 ### PMBOK - Project managment base of knowledge
-Base de conhecimento, conjunto de práticas. É errado dizer que PMBOK é boas práticas e metodologia, ele é um Framework, com reconhecido internacionalmente com sucesso, e que evitam retrabalho.
+Base de conhecimento, conjunto de práticas. É errado dizer que PMBOK é boas práticas e metodologia, ele é um Framework, e reconhecido internacionalmente com sucesso, utilizado para evitar retrabalhos.
 
 Mas, dentro do contexto, para uso individual, ele pode ter essas características:
 ### "Boas práticas"
