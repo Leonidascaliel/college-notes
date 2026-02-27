@@ -2,9 +2,6 @@
 2. Crie uma tabela de produtos com estoque, e outra para lançamentos de saída (venda).
 3. Ao inserir uma saída, faça uma Trigger para validar se existe estoque suficiente para executar a operação, caso tenha, atualize o estoque.
 
--- =========================================
--- LIMPEZA (caso já exista)
--- =========================================
 IF OBJECT_ID('trg_validar_estoque', 'TR') IS NOT NULL
 	DROP TRIGGER trg_validar_estoque;
 
@@ -16,9 +13,6 @@ IF OBJECT_ID('produtos', 'U') IS NOT NULL
 
 GO
 
--- =========================================
--- TABELA DE PRODUTOS
--- =========================================
 CREATE TABLE produtos
 (
 	id INT IDENTITY(1,1) PRIMARY KEY,
@@ -42,9 +36,6 @@ CREATE TABLE vendas
 
 GO
 
--- =========================================
--- TRIGGER: VALIDA E ATUALIZA ESTOQUE
--- =========================================
 CREATE TRIGGER trg_validar_estoque
 ON vendas
 AFTER INSERT
@@ -72,10 +63,6 @@ BEGIN
 	JOIN inserted i ON p.id = i.id_produto;
 END;
 GO
-
--- =========================================
--- TESTE
--- =========================================
 
 -- Inserindo produto
 INSERT INTO produtos (nome, estoque, preco)
