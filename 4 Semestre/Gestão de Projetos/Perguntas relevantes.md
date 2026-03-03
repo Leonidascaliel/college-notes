@@ -1,7 +1,7 @@
 ### Perguntas relevantes para a prova.
 ### Através de um conjunto de boas práticas, posso ter diversas metodologias?
 Sim, é possível através de sugestões adaptáveis (boas práticas), geram um resultado de adaptação (Metodologia), portanto, através disso, adaptam diversos métodos (Metodologia) (Met. A; Met. B; Met. X...).
-### O Sucesso do [[5. Programa]] está vinculado ao sucesso de todos os projetos?
+### O Sucesso do [[9. Programa]] está vinculado ao sucesso de todos os projetos?
 Não, projetos de um programa podem até ser cancelados, porém, com o sucesso de um, garante o sucesso do programa.
 
 ### cite benefícios possíveis da organização de projetos em um programa:
@@ -10,3 +10,10 @@ Não, projetos de um programa podem até ser cancelados, porém, com o sucesso d
 3. Possibilidade de realocação de recursos de um projeto para outro facilmente;
 ### Pontos fracos - Prova
 * Escrita, alguns não escrevem corretamente a resposta e costumam errar. Não Completam frase corretamente.
+### O que acontece dentro de uma organização?
+Não há outra coisa além de:
+* Projetos
+* Operações
+
+### O processo tem mais a ver com Projeto ou Operação?
+Resposta simples, as duas, ambos precisam de processos, e eles consomem recursos.
