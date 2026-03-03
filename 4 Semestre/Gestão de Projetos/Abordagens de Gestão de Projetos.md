@@ -21,4 +21,5 @@ Segundo o "Manifesto ágil", nesta abordagem, "código funcionando é mais impor
 * [[SCRUM]], XP, (TDD), BDD, DDD, Kanban, Lean.
 
 ### Abordagem Híbrida
-É uma forma de aplicar técnicas tradicionais e ágeis em um mesmo projeto.
+É uma forma de aplicar técnicas tradicionais e ágeis em um mesmo projeto, desde que, sejam aplicadas em diferentes partes do projeto.
+É essencial observar uma parte do projeto que necessita de alguma abordagem específica e faz-se uma análise para aplicar a correta (SCRUM, Tradicional...).
