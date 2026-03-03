@@ -3,4 +3,7 @@
 
 **Scrum é algo intermediado entre um conjunto de [[2. Boas práticas]] e [[3. Metodologia]].**
 
-Scrum define alguns pontos, 3 (Exatos) papéis, cerimônias.
+Scrum define alguns pontos, 3 (Exatos) papéis:
+- **Transparência:** Todos os envolvidos têm visibilidade dos processos e artefatos.
+- **Inspeção:** O time inspeciona o progresso frequentemente (ex: Daily Scrum).
+- **Adaptação:** O time ajusta o curso rapidamente se algo estiver fora dos limites

@@ -17,3 +17,18 @@ Não há outra coisa além de:
 
 ### O processo tem mais a ver com Projeto ou Operação?
 Resposta simples, as duas, ambos precisam de processos, e eles consomem recursos.
+
+### Cite 3 motivos da origem de um projeto
+* A **Necessidade**, você criará coisas para atender clientes, gerando necessidade e demanda.
+* "Acompanhar a Concorrência", se o seu concorrente lança algo, você tem a **Necessidade** de fazer igual ou melhor (mercado).
+* Acompanhar avanços tecnológicos
+* Estratégia Organizacional 
+* Sustentabilidade
+
+#### Em que nível administrativo acontece os projetos?
+Nível operacional.
+Os níveis de administração são:
+1. Estratégico: Entidade Patrocinadora
+2. Tático: Gerente de Projetos
+3. Operacional: Projeto 
+
