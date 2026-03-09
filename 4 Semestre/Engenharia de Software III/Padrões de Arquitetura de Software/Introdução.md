@@ -1,0 +1,1 @@
+A arquitetura de software é um dos pilares fundamentais para o desenvolvimento de sistemas robustos, escaláveis e manuteníveis. Ela define a estrutura organizacional do software, especificando os componentes, suas interações e os princípios que regem seu funcionamento.
