@@ -59,3 +59,9 @@ Sim, o Gerente pode assumir o papel de patrocinador e Equipe, ou até mesmo clie
 #### Qual a diferença entre "Usuário" e "Cliente"?
 
 Usuário definitivamente é quem utilizará o sistema e o Cliente é quem paga para utilizar o sistema.
+
+#### Quais os 4 valores do manifesto ágil?
+1. indivíduos e interações
+2. Software em Funcionamento
+3. Colaboração com o Cliente
+4. Responder a mudanças
