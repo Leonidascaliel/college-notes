@@ -32,3 +32,30 @@ Os níveis de administração são:
 2. Tático: Gerente de Projetos
 3. Operacional: Projeto 
 
+#### O Que são Partes Interessadas?
+
+Parte Interessada é qualquer Entidade (Pessoa, organização, cidade, país, mundo...) que possa ser afetada positivamente ou negativamente pelos resultados do projeto.
+
+É alguém, cidade ou organização (Entidade) que tem interesse no seu projeto, mas com influência, portanto, é diferente de um concorrente, ele também terá interesse, mas não caracteriza-se um "Stakeholders".
+A parte que tem o interesse negativo no projeto, precisa de legitimidade para justificar.
+Exemplo: O projeto prejudicará alguém.
+
+- Partes interessadas no projeto são positivas ou negativas? Depende.
+
+#### Cite e explique 3 exemplos de partes Interessadas de um projeto
+Parte Interessada é qualquer Entidade (Pessoa, organização, cidade, país, mundo...) que possa ser afetada positivamente ou negativamente pelos resultados do projeto.
+Gerente, cliente e patrocinador.
+#### Quais são as Entidades presentes em todo projeto?
+1. Gerente
+2. Cliente
+3. Patrocinador
+4. Equipe
+5. Usuário
+
+#### Uma Entidade pode assumir o mesmo papel dentro do projeto?
+
+Sim, o Gerente pode assumir o papel de patrocinador e Equipe, ou até mesmo cliente e usuário, utilizando de um exemplo: uma maratona. Você pode se preparar e criar um projeto de vida para correr uma maratona, e você assumirá diversos papéis para construir e alcançar o objetivo do projeto.
+
+#### Qual a diferença entre "Usuário" e "Cliente"?
+
+Usuário definitivamente é quem utilizará o sistema e o Cliente é quem paga para utilizar o sistema.
