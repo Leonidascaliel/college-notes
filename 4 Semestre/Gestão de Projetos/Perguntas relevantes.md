@@ -65,3 +65,8 @@ Usuário definitivamente é quem utilizará o sistema e o Cliente é quem paga p
 2. Software em Funcionamento
 3. Colaboração com o Cliente
 4. Responder a mudanças
+### Cite 2 Valores do Manifesto ágil
+1. indivíduos e interações - ***Mais importantes que processos e ferramentas.
+2. Software em Funcionamento - ***Mais que documentação abrangente***.
+#### O que define se uma abordagem é ágil ou não?
+Se ela respeita os valores definidos.
