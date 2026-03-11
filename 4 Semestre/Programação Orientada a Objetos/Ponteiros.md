@@ -1,5 +1,6 @@
 ### Como criar um ponteiro?
 Para criarmos um ponteiro em **Java**, é necessário criar uma classe principal e utilizar o código:
+O ponteiro nesse caso é o "**objRet**".
 
 `public class Aplic {`
 
@@ -19,3 +20,8 @@ Para criarmos um ponteiro em **Java**, é necessário criar uma classe principal
     `}`
     
 `}`
+
+Assim como nesse exemplo abaixo.
+Nesse caso, o **ponteiro** é o "**entrada**". Posteriormente foi selecionado o nextDouble().
+
+![[Pasted image 20260311102514.png|697]]

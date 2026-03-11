@@ -17,3 +17,9 @@ O método [sqrt](https://www.google.com/search?client=opera&q=sqrt&sourceid=ope
 
 ### Método Math.pow
 O método `Math.pow(base, expoente)` é uma função estática em Java, JavaScript, C# e outras linguagens, utilizada para realizar a exponenciação, calculando a base elevada à potência do expoente. Ele aceita dois parâmetros numéricos e retorna um valor `double` (ponto flutuante).
+
+	%i = para representar números inteiros não restritos de 0 a 10. Exemplo: 50
+	%d = para representar números de 0 a 10.
+	%f = para representar dados float.
+	%c = para representar um caracter.
+	%s = para representar uma sequência de caracteres (String)
