@@ -48,3 +48,19 @@ A partir de normas, procedimentos, controles e aparatos tecnologicos.
 
 ### O que estamos protegendo?
 A proteção precisa ser proporcional ao valor do que se esta protegendo.
+
+### Formas de Controle de Segurança
+1. Controle lógico e Físico
+2. Controle lógico: Senhas de acesso, barreiras que impedem o acesso a informação, geralmente por meio eletrônico.
+3. Controle físico: Blindagem, guarda, câmera, portão e etc. (Não é o foco da disciplina)
+
+### Principais Mecanismos de Defesa
+1. VPN
+2. Firewall (DMZ; Proxies; Packed Filters; Bastion Hosts; Antivirus Filters)
+3. IDS/IPS
+4. Criptografia
+5. Certificação Digital
+
+### Meta dados
+Informações de registros online. Exemplo: Informações de uma foto (Qual celular, onde foi tirado, Hora).
+
