@@ -17,6 +17,8 @@ Eles ajudam a traduzir os valores em ações concretas e podem ser aplicados em 
 8. Os processos ágeis devem seguir um ritmo constante e sustentável.
 9. Continua atenção à excelência técnica e bom design aumenta a agilidade.
 10. Simplicidade, a arte de maximizar a quantidade de trabalho não realizado, é essencial.
+11. As melhores arquitetura, requisitos e designs emergem de equipes auto-organizadas.
+12. Em intervalos irregulares, a equipe reflete sobre como se tornar mais eficaz e ajusta seu comportamento de acordo.
 
 ### TDD - Test Driven Development
 1. Test
