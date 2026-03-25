@@ -27,3 +27,6 @@ Consiste em concentrar atributos e métodos comuns entre as sub classes (Aluno e
 	Não se deve inserir/criar novamente os atributos e métodos nas **Sub** **Classes** de uma **Super** **Classe**. Somente os atributos e métodos específicos.
 
 Dentro da **Super** **Classe**, geralmente a definição de acesso aos atributos é **Privada**, mas em alguns momentos, pode ser alterado de "**Privado**" para "**Protegido**", o "**Protegido**" é reconhecido pelo sinal de "**#**" e o "Privado" por "-".
+
+### Criação
+Para criar uma "Super Classe" é necessário ter um método construtor. Em java é utilizado o comando "Super" para referenciar a Super Classe. Em C# é utilizado o comando "Base".
