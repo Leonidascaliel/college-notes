@@ -16,3 +16,9 @@ Já o professor, suas características são:
 * Registro funcional, Nome, Data de Nascimento, Salário.
 E suas operações são:
 * Apontar registro funcional, Apontar nome, Apontar data de Nascimento, Apontar Salário.
+
+Porém, quando analisamos as duas classes, ambras tem características comuns e específicas, as comuns são "Nome" e "Data de nascimento" e as específicas são as sobressalentes. 
+Diante desta situação, na análise do projeto, aplicamos uma técnica chamada de generalização.
+
+### Generalização ou Super Classe
+Consiste em concentrar atributos e métodos comuns entre as sub classes (Aluno e professor), através de vínculos de herança. Implementar uma Super Classe é uma boa prática para permitir adaptabilidade e menos custo no seu projeto.
