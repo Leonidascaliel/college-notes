@@ -22,3 +22,6 @@ Diante desta situação, na análise do projeto, aplicamos uma técnica chamada 
 
 ### Generalização ou Super Classe
 Consiste em concentrar atributos e métodos comuns entre as sub classes (Aluno e professor), através de vínculos de herança. Implementar uma Super Classe é uma boa prática para permitir adaptabilidade e menos custo no seu projeto.
+
+**Dica** **importante**!
+	Não é necessário inserir/criar novamente os atributos e métodos nas **Sub** **Classes** de uma **Super** **Classe**.
