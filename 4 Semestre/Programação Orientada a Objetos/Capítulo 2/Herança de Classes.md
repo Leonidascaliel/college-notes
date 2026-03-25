@@ -24,4 +24,6 @@ Diante desta situação, na análise do projeto, aplicamos uma técnica chamada 
 Consiste em concentrar atributos e métodos comuns entre as sub classes (Aluno e professor), através de vínculos de herança. Implementar uma Super Classe é uma boa prática para permitir adaptabilidade e menos custo no seu projeto.
 
 **Dica** **importante**!
-	Não é necessário inserir/criar novamente os atributos e métodos nas **Sub** **Classes** de uma **Super** **Classe**. Somente os atributos e métodos específicos.
+	Não se deve inserir/criar novamente os atributos e métodos nas **Sub** **Classes** de uma **Super** **Classe**. Somente os atributos e métodos específicos.
+
+Dentro da **Super** **Classe**, geralmente a definição de acesso aos atributos é **Privada**, mas em alguns momentos, pode ser alterado de "**Privado**" para "**Protegido**", o "**Protegido**" é reconhecido pelo sinal de "**#**" e o "Privado" por "-".
