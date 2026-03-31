@@ -14,3 +14,9 @@ O Sucesso do projeto se divide em Operacional e Estratégico.
 ### Termo de Abertura
 Documento estratégico elaborado pelo patrocinador e que define a razão de negócio do projeto.
 
+### Plano
+Plano é uma linha de base a ser percorrida ao longo da **execução** e que define os parâmetros sobre os quais o projeto vai ser **controlado**.
+
+### Controle
+Comparar a execução com aquilo que foi planejado a fim de definir ações corretivas, preventivas ou mudanças no próprio plano de projeto.
+
