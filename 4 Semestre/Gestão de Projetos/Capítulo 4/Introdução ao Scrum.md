@@ -26,3 +26,19 @@ E possui três artefatos (e compromissos associados)
 * Product backlog (e a meta do produto)
 * Sprint backlog (e a meta do sprint)
 * Product Increment (e a definição de ponto)
+
+### Pilares
+O Scrum possui três pilares sobre os quais a estrutura é estabelecida.
+A saber:
+1. Transparência
+2. Inspeção
+3. Adaptação
+
+A ideia que esta por trás da transparência: tudo em um projeto precisa ser transparente para as partes interessadas e possuem plena visibilidade do trabalho.
+
+#### Inspeção
+É a continua avaliação dos artefatos para detectar variações ou problemas.
+
+#### Adaptação
+A adaptação é uma constante no ambiente ágil e devem ser feitas o mais rápido possível para minimizar desvios.
+
