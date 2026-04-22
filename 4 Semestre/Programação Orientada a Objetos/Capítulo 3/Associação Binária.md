@@ -20,3 +20,5 @@ Se o (1...) conter "Asterisco", significa que são múltiplos ponteiros.
 Indica quantas instancias (objetos) estão ligadas a outra classe.
 
 *Exemplo: 0...1, 1, 0...(Asterisco)*, (Asterisco), 1...(Asterisco), 1..., 15(m...n). 
+
+![[Pasted image 20260422114743.png]]
