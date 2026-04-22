@@ -15,3 +15,8 @@ Indica que um objeto de uma classe aponta para um ou mais objetos de uma outra c
 Contudo, um (1) da classe D aponta (->) para um (1) objeto da classe C.*
 
 Se o (1...) conter "Asterisco", significa que são múltiplos ponteiros.
+
+#### Multiplicidade
+Indica quantas instancias (objetos) estão ligadas a outra classe.
+
+*Exemplo: 0...1, 1, 0...(Asterisco)*, (Asterisco), 1...(Asterisco), 1..., 15(m...n). 
