@@ -17,5 +17,26 @@ tamanho máximo para uma equipe Scrum é de 10 pessoas e é composta por:
 * Multifuncional: Ter membros que possuem todas as habilidades necessárias.
 * Autogerenciável: A equipe se autogerencia, informações de gestão são compartilhadas entre a equipe, trabalhando de forma ágil.
 
+### Desenvolvedores
+Equipe multifuncional (varia tecnicamente) com até 10 pessoas.
+1. Não existe um gerente (ou chefe) dos desenvolvedores.
+2. são responsáveis pelas tarefas para entregar o incremento do produto.
+3. tem como foco atingir a meta do sprint.
+4. criam o plano do sprint.
+5. aumentam a qualidade no Product Increment em direção à "definição de ponto".
+6. adaptam seu plano a cada dia em direção a meta do sprint.
+
+Os desenvolvedores existem no máximo 10 e são responsáveis por executar o trabalho para integrar o incremento do produto.
+
+### Product Owner
+O PO é "uma pessoa, não um comitê". Por isso, ele pode fazer o trabalho "ou pode delegar" a outros. Quem quiser "alterar o Product Backlog deve convencer o PO".
+
+Ele representa o cliente e outros stakeholders.
+1. define uma visão clara do produto balanceando demandas conflitantes.
+2. define quando e como será feita a entrega para maximizar o valor.
+3. participa do planejamento da sprint.
+4. define a meta do sprint. Refina e detalha o backlog, aceita ou rejeita resultados com base na definição de ponto. Só o PO pode cancelar uma sprint.
+5. trabalho em colaboração com a equipe de desenvolvimento para garantir que os requisitos sejam compreendidos, comunicados e  implementados corretamente.
+
 ***Fontes de referência formal: SCRUM 2020.
 
