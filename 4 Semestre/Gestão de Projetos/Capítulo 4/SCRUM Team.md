@@ -38,7 +38,15 @@ Ele representa o cliente e outros stakeholders.
 4. define a meta do sprint. Refina e detalha o backlog, aceita ou rejeita resultados com base na definição de ponto. Só o PO pode cancelar uma sprint.
 5. trabalho em colaboração com a equipe de desenvolvimento para garantir que os requisitos sejam compreendidos, comunicados e  implementados corretamente.
 
-"O PO é principal o representante do cliente no dia a dia da equipe e tem como principais funções definir a meta da sprint e esclarecer todas as dúvidas sobre o produto".
+"O PO é principal o representante do cliente no dia a dia da equipe e tem como principais funções definir a meta da sprint e esclarecer todas as dúvidas sobre o produto. Ele é o único que pode cancelar uma sprint no meio do caminho".
+
+### Scrum Master
+O SM é um "Embaixador" do Scrum é "responsável pela eficácia do Scrum Team".
+Ele serve ao Scrum Team, ao PO e à organização.
+1. Remove obstáculos, treina e aconselha a todos e garante que o Scrum seja compreendido e seguido adequadamente.
+2. Ajuda o PO a "encontrar técnicas para definição eficaz da meta do produto e gerenciamento do Product Backlog".
+3. Ajuda o Scrum Team a "garantir que todos os eventos Scrum ocorram e sejam positivos, produtivos e mantidos dentro do timebox".
+4. Ajuda a organização a "compreender e aplicar uma abordagem empírica (aprende com a prática) para trabalhos complexos".
 
 ***Fontes de referência formal: SCRUM 2020.
 
