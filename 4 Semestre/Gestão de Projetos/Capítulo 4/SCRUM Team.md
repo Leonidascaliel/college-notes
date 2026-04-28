@@ -26,7 +26,7 @@ Equipe multifuncional (varia tecnicamente) com até 10 pessoas.
 5. aumentam a qualidade no Product Increment em direção à "definição de ponto".
 6. adaptam seu plano a cada dia em direção a meta do sprint.
 
-Os desenvolvedores existem no máximo 10 e são responsáveis por executar o trabalho para integrar o incremento do produto.
+"Os desenvolvedores existem no máximo 10 e são responsáveis por executar o trabalho para integrar o incremento do produto." 
 
 ### Product Owner
 O PO é "uma pessoa, não um comitê". Por isso, ele pode fazer o trabalho "ou pode delegar" a outros. Quem quiser "alterar o Product Backlog deve convencer o PO".
@@ -37,6 +37,8 @@ Ele representa o cliente e outros stakeholders.
 3. participa do planejamento da sprint.
 4. define a meta do sprint. Refina e detalha o backlog, aceita ou rejeita resultados com base na definição de ponto. Só o PO pode cancelar uma sprint.
 5. trabalho em colaboração com a equipe de desenvolvimento para garantir que os requisitos sejam compreendidos, comunicados e  implementados corretamente.
+
+"O PO é principal o representante do cliente no dia a dia da equipe e tem como principais funções definir a meta da sprint e esclarecer todas as dúvidas sobre o produto".
 
 ***Fontes de referência formal: SCRUM 2020.
 
