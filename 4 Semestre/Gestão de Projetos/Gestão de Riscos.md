@@ -15,7 +15,6 @@ Normas ISO/IEC:
 * 31000
 ### Processos de gestão de risco
 1. Identificação: Tem como objetivo listar os riscos em um modelo de Causa + efeito
-2. Análise (Qualitativa: tem como objetivo ordenar os riscos com base em valores qualitativos de probabilidade e impacto; e Quantitativa: se baseia em dados estatísticos reais e por isso nem sempre é realizada, pois: nem sempre existem os dados necessários ou o custo de obtê-los é proibitivo )
+2. Análise (Qualitativa: tem como objetivo ordenar os riscos com base em valores qualitativos de probabilidade e impacto; e Quantitativa: se baseia em dados estatísticos reais e por isso nem sempre é realizada, pois: nem sempre existem os dados necessários ou o custo de obtê-los é proibitivo)
 3. Planejamento de respostas
 4. Controlar e monitorar os riscos
-
