@@ -33,7 +33,9 @@ O que é planejar "respostas"? É uma estratégia que foi escolhida em conjunto 
 2. evitar: É atuar no risco para fazer com que sua probabilidade se torne igual a zero
 3. Transferir o risco: Encontrar uma maneira de que um terceiro assuma o impacto do risco. Exemplo clássico de ação de transferência = Contratação de seguro.
 4. Aceitar o risco: aceitar é não fazer nada diante do risco identificado
-5. Controlar e monitorar: 
+5. Controlar e monitorar: Acompanhar os riscos com a finalidade de rever as analises, verificar a efetividade das respostas, lidar com riscos residuais e Riscos secundários.
 
+Risco secundário é um outro risco que surge após uma aplicação de uma resposta.
+Risco residual é o risco que permanece com o grau de criticidade alterado após uma resposta
 ### Ação
 * 
